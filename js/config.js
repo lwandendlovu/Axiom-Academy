@@ -5,10 +5,10 @@
 window.AXIOM_CONFIG = {
   // WhatsApp number in international format, no "+" or spaces (e.g. '27721234567').
   // Leave empty and WhatsApp will ask the visitor to choose a contact.
-  whatsappNumber: '27736731503',
+  whatsappNumber: '27677744887',
 
   // How the number is shown on the page (e.g. '072 123 4567').
-  whatsappDisplay: '073 673 1503',
+  whatsappDisplay: '067 774 4887',
 
   // Contact email shown on the page.
   email: 'alwandehadebe@icloud.com',
